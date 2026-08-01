@@ -1,5 +1,18 @@
-pedigree-apps
-=
+# pedigree-apps (legacy snapshot)
+
+> [!IMPORTANT]
+> This repository preserves the Pedigree applications and package tooling at
+> a point in time before the current modernization and bug-fixing effort. It
+> is a historical artifact, not the active development repository.
+
+For current development, see
+[`miselin/pedigree-apps`](https://github.com/miselin/pedigree-apps). The active
+mainline is receiving substantial AI-assisted maintenance to address
+long-standing bugs, modernize the tooling, and improve stability. This legacy
+snapshot predates that AI-assisted work; its code was developed without AI
+assistance.
+
+---
 
 The purpose for pedigree-apps is mainly to provide a central location for all files and folders relating to ported applications for Pedigree (https://www.pedigree-project.org)
 
